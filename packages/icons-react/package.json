@@ -1,5 +1,5 @@
 {
-  "name": "@carbon/icons-react",
+  "name": "@salvoravida/carbon-icons-react",
   "description": "React components for icons in digital and software products using the Carbon Design System",
   "version": "10.45.0",
   "license": "Apache-2.0",
@@ -13,9 +13,7 @@
   "bugs": "https://github.com/carbon-design-system/carbon/issues",
   "files": [
     "es",
-    "lib",
-    "umd",
-    "next"
+    "lib"
   ],
   "keywords": [
     "ibm",
